@@ -2,13 +2,11 @@ To-Do List Application
 
 This project is a simple console-based "To-Do List" application. It provides users with a task manager where they can add, list, and delete tasks.
 
-Features
+Features:
 
-Add tasks
-
-List tasks
-
-Delete tasks
+1.Add tasks
+2.List tasks
+3.Delete tasks
 
 Save tasks to a file and load them on restart
 
